@@ -1,0 +1,38 @@
+
+        h1 {
+            font-family: 'Courier New', Courier, monospace;
+        }
+
+        p {
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 30px;
+        }
+
+        body {
+            background-color: #606c38;
+        }
+
+        .exatas {
+            font-size: 1.5em;
+        }
+
+        .origami {
+            font-size: 45px;
+        }
+
+        #foto {
+            float: left;
+            height: 630px;
+            padding: 10px;
+            background-color: #283618;
+        }
+
+        .image-container {
+            height: 650px;
+        }
+
+        .nome {
+            text-align: center;
+        }
+
+       
